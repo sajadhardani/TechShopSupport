@@ -64,22 +64,22 @@ export default function Footer() {
 
         </div>
 
-        <div className='py-8 px-4'>
-          <h1 className='sm:text-3xl text-xl font-bold sm:text-left mb-3 flex items-center'>
+        <div  className='py-8 px-4'>
+          <h1 dir='rtl' className='sm:text-3xl text-xl font-bold sm:text-left mb-3 flex items-center'>
             <img src={Footerlogo} alt='logo' className='max-w-[50px] ' />
             سجاد
           </h1>
           <p className='text-right'>
-            از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی م
+            دولوپر فول استک هستم برای اطلاعات بیشتر با راه های ارتباطی زیر باهام تماس بگیرید
           </p>
           <br />
-          <div className='flex items-center gap-3'>
+          <div  className='flex items-center gap-3'>
             <FaLocationArrow />
               <p> تهران </p>
           </div>
           <div className='flex items-center gap-3 mt-3'>
           <FaMobile />
-          <p>+98 0916 000 000</p>
+          <p>+98 0916 514 2066</p>
           </div>
           {/* social handle */}
           <div className='flex items-center gap-2 mt-6'>
